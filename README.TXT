@@ -6,7 +6,7 @@
 |-anhaenger: boolean = false     |
 +--------------------------------+
 |+Autobus(newKennzeichen,        |
-|          newSitzplaetze,       |
+|         newSitzplaetze,        |
 |         newAnhaenger)          |
 |+Autobus()                      |
 |+get/set                        | 
